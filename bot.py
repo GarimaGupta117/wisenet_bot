@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
-TOKEN = "YOUR_TOKEN_HERE"
+TOKEN = "8696215470:AAFuMSgWY9WRCbiIcN-eEkh-wPcl_t3vzXE"
 
 USERNAME, PASSWORD = range(2)
 
